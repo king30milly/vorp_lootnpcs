@@ -2,18 +2,18 @@ Translation = {}
 
 Translation.Langs = {
   English = {
-    invFullWeapon = "You can't carry any more WEAPONS.",
-    invFullItems = "You can't carry any more ITEMS.",
+    invFullWeapon = "You can't carry any more weapons.",
+    invFullItems = "You can't carry any more items.",
     ItemsFull = "You can't carry more ",
-    noGold = "This person had Gold on him.",
-    noMoney = "This person had Money on him.",
-    noWeapon = "This person had Weapon on him.",
-    noItem = "This person had Items on him.",
+    noGold = "This person didn't have any gold on them.",
+    noMoney = "This person didn't have any money on them.",
+    noWeapon = "This person didn't have any weapon on them.",
+    noItem = "This person didn't have any items on them.",
     youGot = "You got ",
     nugget = " nugget.",
     currency = " $.",
     notifytitle = "Loot"
-  },
+},
   Portuguese_PT = {
     invFullWeapon = "Não tens espaço para mais armas.",
     invFullItems = "Não tens espaço para mais itens.",
